@@ -1,2 +1,2 @@
 # TConverter
-Example app
+Pet project to use constraints
